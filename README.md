@@ -48,3 +48,5 @@ No Activity Tracked This Week
  Last Updated on 31/10/2021
 <!--END_SECTION:waka-->
 
+#### Genshin Impact
+![](https://api.mn07.xyz/genshin/card/42384502)
