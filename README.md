@@ -1,8 +1,6 @@
 ### Hi, I'm Manh 👋
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74840%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -13,16 +11,16 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 3 Public Repositories 
+> 📜 4 Public Repositories 
  > 
 > 🔑 7 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    3 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-🌆 Daytime    15 commits     ████████████░░░░░░░░░░░░░   50.0% 
-🌃 Evening    12 commits     ██████████░░░░░░░░░░░░░░░   40.0% 
+🌞 Morning    3 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+🌆 Daytime    18 commits     █████████████░░░░░░░░░░░░   54.55% 
+🌃 Evening    12 commits     █████████░░░░░░░░░░░░░░░░   36.36% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
