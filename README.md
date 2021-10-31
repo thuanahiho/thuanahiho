@@ -47,4 +47,4 @@ No Activity Tracked This Week
 <!--END_SECTION:waka-->
 
 #### Genshin Impact
-![](https://api.mn07.xyz/genshin/card/42384502?)
+![](https://api.mn07.xyz/genshin/card/42384502)
