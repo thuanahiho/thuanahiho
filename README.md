@@ -5,40 +5,46 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 119 Contributions in the Year 2021
+> 🏆 106 Contributions in the Year 2021
  > 
 > 📦 77.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 3 Public Repositories 
+> 📜 4 Public Repositories 
  > 
 > 🔑 7 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    3 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+🌆 Daytime    18 commits     █████████████░░░░░░░░░░░░   54.55% 
+🌃 Evening    12 commits     █████████░░░░░░░░░░░░░░░░   36.36% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Blade Template           1 hr 52 mins        ████████████░░░░░░░░░░░░░   48.71% 
-JavaScript               1 hr 9 mins         ███████░░░░░░░░░░░░░░░░░░   29.81% 
-PHP                      49 mins             █████░░░░░░░░░░░░░░░░░░░░   21.2% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11% 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 3 hrs 8 mins        ████████████████████░░░░░   81.15% 
-VS Code                  43 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.85%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    3 hrs 51 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 01/11/2021
+ Last Updated on 31/10/2021
 <!--END_SECTION:waka-->
 
 #### Genshin Impact Card
-[![](https://api.mn07.xyz/genshin/card/42384502?)](https://api.mn07.xyz/genshin/card/42384502)
+[![Genshin Impact Card](https://api.mn07.xyz/genshin/card/42384502?)](https://webstatic-sea.mihoyo.com/app/community-game-records-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&v=101&gid=2&user_id=42384502&lang=en-us#/ys)
