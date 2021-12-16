@@ -29,7 +29,7 @@ Text                     14 mins             ░░░░░░░░░░░�
 
 🔥 Editors: 
 VS Code                  27 hrs 36 mins      ████████████████████████░   99.36% 
-Visual Studio            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35% 
+Visual Studio            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35%#### Genshin Impact Card 
 Neovim                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
 
 💻 Operating System: 
@@ -54,5 +54,4 @@ TypeScript               1 repo              ██░░░░░░░░░�
  Last Updated on 01/12/2021
 <!--END_SECTION:waka-->
 
-#### Genshin Impact Card
 [![Genshin Impact Card](https://api.mn07.xyz/genshin/card/42384502?)](https://webstatic-sea.mihoyo.com/app/community-game-records-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&v=101&gid=2&user_id=42384502&lang=en-us#/ys)
