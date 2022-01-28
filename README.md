@@ -5,15 +5,15 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 43 Contributions in the Year 2022
+> 🏆 50 Contributions in the Year 2022
  > 
-> 📦 104.9 kB Used in GitHub's Storage 
+> 📦 105.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 6 Public Repositories 
+> 📜 7 Public Repositories 
  > 
-> 🔑 8 Private Repositories  
+> 🔑 9 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -40,17 +40,17 @@ Windows                  22 mins             ░░░░░░░░░░░�
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     4 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-JavaScript               3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-PHP                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
+HTML                     4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
+JavaScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+PHP                      3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
 
 ```
 
 
 
- Last Updated on 26/01/2022 00:28:34 UTC
+ Last Updated on 28/01/2022 00:27:02 UTC
 <!--END_SECTION:waka-->
 
 [![Genshin Impact Card](https://api.mn07.xyz/genshin/card/42384502?)](https://webstatic-sea.mihoyo.com/app/community-game-records-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&v=101&gid=2&user_id=42384502&lang=en-us#/ys)
