@@ -5,7 +5,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 104 Contributions in the Year 2022
+> 🏆 105 Contributions in the Year 2022
  > 
 > 📦 144.6 kB Used in GitHub's Storage 
  > 
@@ -21,14 +21,14 @@
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    16 mins             ████████████████████████░   98.45% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.55%
+Other                    0 secs              █████████████████░░░░░░░░   69.87% 
+JSON                     0 secs              ███████░░░░░░░░░░░░░░░░░░   30.13%
 
 🔥 Editors: 
-VS Code                  16 mins             █████████████████████████   100.0%
+VS Code                  0 secs              █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  16 mins             █████████████████████████   100.0%
+Windows                  0 secs              █████████████████████████   100.0%
 
 ```
 
@@ -45,7 +45,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/04/2022 00:41:40 UTC
+ Last Updated on 22/04/2022 00:43:50 UTC
 <!--END_SECTION:waka-->
 
 [![Genshin Impact Card](https://api.mn07.xyz/genshin/card/42384502?)](https://webstatic-sea.mihoyo.com/app/community-game-records-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&v=101&gid=2&user_id=42384502&lang=en-us#/ys)
