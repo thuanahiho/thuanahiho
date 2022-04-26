@@ -21,13 +21,18 @@
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      26 hrs 5 mins       ████████████████░░░░░░░░░   64.33% 
+JavaScript               7 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.69% 
+SCSS                     3 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
+JSON                     2 hrs 33 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.3% 
+Other                    22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.94%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  40 hrs 34 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    40 hrs 34 mins      █████████████████████████   100.0% 
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 
@@ -44,7 +49,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/04/2022 00:39:04 UTC
+ Last Updated on 26/04/2022 00:44:23 UTC
 <!--END_SECTION:waka-->
 
 [![Genshin Impact Card](https://api.mn07.xyz/genshin/card/42384502?)](https://webstatic-sea.mihoyo.com/app/community-game-records-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&v=101&gid=2&user_id=42384502&lang=en-us#/ys)
