@@ -3,20 +3,10 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 140 Contributions in the Year 2022
- > 
-> 📦 145.5 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 8 Public Repositories 
- > 
-> 🔑 8 Private Repositories  
- > 
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -50,7 +40,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/05/2022 00:43:00 UTC
+ Last Updated on 11/05/2022 18:37:42 UTC
 <!--END_SECTION:waka-->
 
 [![Genshin Impact Card](https://api.mn07.xyz/genshin/card/42384502?)](https://webstatic-sea.mihoyo.com/app/community-game-records-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&v=101&gid=2&user_id=42384502&lang=en-us#/ys)
