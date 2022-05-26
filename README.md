@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -25,18 +25,18 @@
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-JavaScript               34 hrs 40 mins      ███████████████████████░░   92.3% 
-PHP                      1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.12% 
-CSS                      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.29% 
-Bash                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.09% 
+JavaScript               32 hrs 44 mins      ███████████████████████░░   92.13% 
+PHP                      1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.15% 
+Bash                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.46% 
+CSS                      22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.05% 
 HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
 
 🔥 Editors: 
-VS Code                  37 hrs 33 mins      █████████████████████████   100.0%
+VS Code                  35 hrs 32 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    33 hrs 17 mins      ██████████████████████░░░   88.64% 
-Windows                  4 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.36%
+Linux                    31 hrs 16 mins      ██████████████████████░░░   88.0% 
+Windows                  4 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.0%
 
 ```
 
@@ -53,7 +53,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/05/2022 00:44:49 UTC
+ Last Updated on 26/05/2022 00:44:45 UTC
 <!--END_SECTION:waka-->
 
 [![Genshin Impact Card](https://api.mn07.xyz/genshin/card/42384502?)](https://webstatic-sea.mihoyo.com/app/community-game-records-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&v=101&gid=2&user_id=42384502&lang=en-us#/ys)
