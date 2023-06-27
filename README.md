@@ -1,7 +1,5 @@
 ### Hi, I'm Manh 👋
 
-![status](https://badge.stateful.com/manhhn01/status.svg)
-
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
