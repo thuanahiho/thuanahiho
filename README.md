@@ -1,4 +1,4 @@
-### Hi, I'm Manh 👋
+### Hi, I'm Thuann 👋
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
