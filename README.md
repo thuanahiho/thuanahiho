@@ -28,13 +28,14 @@ Sunday                   1 commits           █████░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 17 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 17 mins        █████████████████████████   99.76 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 17 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -50,5 +51,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 28/06/2024 10:10:11 UTC
+ Last Updated on 29/06/2024 01:09:40 UTC
 <!--END_SECTION:waka-->
