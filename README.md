@@ -1,27 +1,6 @@
 ### Hi, I'm Thuann 👋
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Lua** 
 
 ```text
@@ -32,5 +11,5 @@ JavaScript               1 repo              ███████████�
 
 
 
- Last Updated on 06/08/2026 02:40:48 UTC
+ Last Updated on 07/08/2026 02:43:24 UTC
 <!--END_SECTION:waka-->
